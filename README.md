@@ -1,9 +1,6 @@
 # ProBiotein-BroilerRinsate
  Broiler study evaluating the role of ProBiotein, a yeast fermentate, in modulating the carcass microbiota
 
-# ProBiotein-Broiler-Rinsate
-Broiler study evaluating the role of ProBiotein, a yeast fermentate, in modulating the gastrointestinal and carcass microbiota
-
 ###Supplementation of a Yeast Fermentate on Broiler Growth, Processing Characteristics, and Carcass Rinsate Microbiota in Commercial Diets
 
 L. A. Wythe<sup>1</sup>, D. K. Dittoe<sup>1</sup>, A. Scheaffer<sup>2</sup>, S. C. Ricke<sup>1</sup>
